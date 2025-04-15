@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from io import BytesIO
 
-st.set_page_config(page_title== "DATA SWEEPER" ,layout='centered') # type: ignore
+st.set_page_config(page_title= "DATA SWEEPER" ,layout='centered') # type: ignore
 
 #customcss
 st.markdown(
